@@ -1,11 +1,12 @@
 # Introduction to CubeSat
-
-#Lab-01
-###Introduction to ESP-32
+------
+# Lab-01
+### Introduction to ESP-32
 1.Installation and Configuration
 #Lab-02
 1.Blinking lights
-`#include<Wire.h>
+''' python
+#include<Wire.h>
 #include<Adafruit_GFX.h>
 #include<Adafruit_SSD1306.h>
 #include<Adafruit_Sensor.h>
@@ -70,4 +71,4 @@ void setup(){
   
 
   }
-`
+'''
