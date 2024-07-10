@@ -3,7 +3,7 @@
 # Lab-01
 ### Introduction to ESP-32
 1.Installation and Configuration
-#Lab-02
+# Lab-02
 1.Blinking lights
 ''' python
 #include<Wire.h>
