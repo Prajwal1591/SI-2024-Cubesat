@@ -5,7 +5,7 @@
 1.Installation and Configuration
 # Lab-02
 1.Blinking lights
-''' python
+```python
 #include<Wire.h>
 #include<Adafruit_GFX.h>
 #include<Adafruit_SSD1306.h>
@@ -71,4 +71,4 @@ void setup(){
   
 
   }
-'''
+```
