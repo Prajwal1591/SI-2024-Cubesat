@@ -74,6 +74,7 @@ Microprocessors and microcontrollers are integral components in satellite system
 - Microcontrollers play a role in managing power distribution and ensuring efficient energy usage.
 - Microcontrollers often implement fault detection mechanisms and autonomous recovery procedures to relieve anomalies and ensure satellite operational reliability.
 ---
+---
 # LAB EXERCISES
 ## **Lab-01**
 > Introduction to ESP-32
