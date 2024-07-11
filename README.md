@@ -1,13 +1,15 @@
 # CubeSat
 ---
+
+---
 # LAB EXERCISES
 ## **Lab-01**
 > Introduction to ESP-32
 
 1.Installation and Configuration
-# Lab-02
+## **Lab-02**
 1.Blinking lights using ESP-32
-# Lab-03
+## **Lab-03**
 > Blinking multiple lights
  ```python
 #define LED1 2
