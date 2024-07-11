@@ -15,12 +15,14 @@
 > CubeSat Communication System
 - Communication system of cubesat acts as a linkage between the satellite in space and the ground satellites.
 - Various components associated with communication system are:-
+- -
 1.Antennas▶️
    :CubeSats may use deployable antennas that unfold or extend after launch to optimize signal transmission and reception. Some cuesat uses fixed antennas that are integrated in the structure
 2.Transrecievers▶️
+  --
    :Transceivers transmit signals to ground stations or other satellites and receive signals for command and data retrieval.
 3. Frequency bands▶️
-   :CubeSats operate in various frequency bands allocated for space communication, such as UHF (Ultra High Frequency), S-band, X-band, and others.
+   :CubeSats /n operate in various frequency bands allocated for space communication, such as UHF (Ultra High Frequency), S-band, X-band, and others.
 4.
 
 ---
