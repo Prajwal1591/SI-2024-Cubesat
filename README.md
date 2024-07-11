@@ -103,6 +103,19 @@ Basic modulation techniques used to encode digital information onto an analog ca
 
 ![image](https://github.com/user-attachments/assets/eb810331-e871-481f-b028-dd0c0e651416)
 
+## LoRa Module
+> ## *What is LoRa Module?*
+
+ - A LoRa module refers to a device or a component that incorporates LoRa (Long Range) modulation technology for wireless communication.
+ - LoRa is a modulation technique developed by Semtech that enables long-range communication with low power consumption.
+
+> ## Key aspects of LoRa Modulation :
+
+   - LoRa Modulation:
+          It uses a sprad spectrum modulation technique to provide long-range communication with relatively lower power consumption.
+   - Features:
+
+        LoRa modules often include features such as error correction coding, adaptive data rate adjustment, and support for different spreading factors
 ---
 ---
 # LAB EXERCISES
