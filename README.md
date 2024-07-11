@@ -24,7 +24,7 @@
 
 
  > ##
- ![image](https://github.com/Prajwal1591/SI-2024-Cubesat/assets/174081452/4bfc8c46-e404-4513-8107-968d474326a5)
+![timeline](https://github.com/Prajwal1591/SI-2024-Cubesat/assets/174081452/4762478f-a022-4d6d-9abf-a59d052b9295)
 
  
 > ## Minimal Payload
