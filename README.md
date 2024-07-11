@@ -44,7 +44,7 @@
 > ## CubeSat Architecture
  CubeSat architecture is the standardized design and structure of these small satellites. CubeSats are characterized by their modular and scalable architecture, which enables rapid and cost-effective development, deployment, and operation in space.
 
- ![image](https://github.com/user-attachments/assets/e5d5b075-b5bb-4314-a6ef-3d9d70733369)
+![image](https://github.com/user-attachments/assets/d1ba4723-c246-452a-8110-1c687d9c65a5)
  
 
  ---
