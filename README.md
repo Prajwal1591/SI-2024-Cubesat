@@ -37,7 +37,6 @@
 > ## CubeSat Communication System
 - Communication system of cubesat acts as a linkage between the satellite in space and the ground satellites. Various components associated with communication system are:-
 
-- 
 **Antennas:**
              CubeSats may use deployable antennas that unfold or extend after launch to optimize signal transmission and reception. Some cuesat uses fixed antennas that are integrated in the structure.
 
@@ -46,12 +45,11 @@
            Transceivers transmit signals to ground stations or other satellites and receive signals for command and data retrieval.     
            
   
-**Frequency band:**    
+**Frequency band:**        
+           CubeSats operate in various frequency bands allocated for space communication, such as UHF (Ultra High Frequency), S-band, X-band, and others.
 
-   CubeSats operate in various frequency bands allocated for space communication, such as UHF (Ultra High Frequency), S-band, X-band, and others.
-
-**Command and Telemetry:**
-  CubeSats transmit telemetry data to ground stations, providing information about the satellite's health, status, and operational parameters.
+**Command and Telemetry:**     
+           CubeSats transmit telemetry data to ground stations, providing information about the satellite's health, status, and operational parameters.
   
   > Micro processors and Micro controllers995r
      Microprocesor is a subset of microcontrollers as microcontrollers are made up of microprocessor with some peripheral participants(such as touch semsors, bluetooth, wi-fi and many more).
