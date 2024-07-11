@@ -77,7 +77,13 @@ Microprocessors and microcontrollers are integral components in satellite system
 - Microcontrollers play a role in managing power distribution and ensuring efficient energy usage.
 - Microcontrollers often implement fault detection mechanisms and autonomous recovery procedures to relieve anomalies and ensure satellite operational reliability.
 
-  > ##
+
+  > ## Basic Digital Modulation Methods
+
+Basic modulation techniques used to encode digital information onto an analog carrier signal for transmission over communication channels. There are three basic digital modulation types:-
+- Amplitude Shift Keying (ASK):
+     ASK starts with a high-frequency carrier signal, typically a sinusoidal wave, which acts as the carrier for transmitting digital information. The digital data to be transmitted is in the form of binary bits (0s and 1s).
+  1forhigher amplitude and 0 forlower amplitude or no signal.
 ---
 ---
 # LAB EXERCISES
