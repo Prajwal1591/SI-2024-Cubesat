@@ -125,7 +125,8 @@ Basic modulation techniques used to encode digital information onto an analog ca
      
 ![image](https://github.com/user-attachments/assets/9a0ed236-e651-4f6c-8a84-6b34d4175622)
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/172e496a-38a5-4866-ade4-e29760068847)
+
 
  
 ---
