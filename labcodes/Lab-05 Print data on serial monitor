@@ -1,0 +1,13 @@
+void setup() {
+  Serial.begin(115200);
+  while (!Serial) {
+  // Print a message to the serial monitor
+  Serial.println("Hello, ESP32!");
+  }
+}
+void loop() {
+  Serial.print("Milliseconds since start: ");
+  Serial.println(millis());
+  // Wait for 1 second
+  delay(1000);
+}
