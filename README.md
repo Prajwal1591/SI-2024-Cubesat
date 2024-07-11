@@ -15,7 +15,7 @@
 - ---
 > CubeSat Communication System
 - Communication system of cubesat acts as a linkage between the satellite in space and the ground satellites. Various components associated with communication system are :-
-  i)Antennas:
+  - m i)Antennas:
     CubeSats may use deployable antennas that unfold or extend after launch to optimize signal transmission and reception. Some cuesat uses fixed antennas that are integrated in the structure.
   
   ii)Transrecievers:
