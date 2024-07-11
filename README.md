@@ -1,5 +1,8 @@
 # CubeSat
 ---
+-  CubeSat or Cube Satellite is a type of miniaturized satellite used for space research.
+-  -it is as smaller as that of 1U of CubeSat=10 cm with mass of 1-1.33kg(s)
+
 
 ---
 # LAB EXERCISES
