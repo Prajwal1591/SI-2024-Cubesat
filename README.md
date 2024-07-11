@@ -8,7 +8,7 @@
 - A dispenser system refers to a mechanism or device used to release satellites, payloads, or CubeSats into space from a launch vehicle.
 - It provides attachment to the launching vehicles.
 - The first dispenser for CubeSats was the Poly-Picosatellite Orbital Deployer (P-POD). It was developed by Cal Poly, San Luis Obispo.
-- ![]([Ds.jpeg](https://www.bing.com/images/search?view=detailV2&ccid=SKZzs72l&id=2E71D4F5A7C9560282ADFFE1BAD5A5E2356A8DDF&thid=OIP.SKZzs72l2HIB7DhdlLJBFwAAAA&mediaurl=https%3a%2f%2fwww.researchgate.net%2fprofile%2fErik_Stromberg2%2fpublication%2f268420981%2ffigure%2ffig7%2fAS%3a295528739950593%401447470950149%2fA-study-of-placing-3U-and-modified-6U-P-Pod-like-deplorers-within-the-volume-of-an_Q320.jpg&exph=302&expw=302&q=Poly-Picosatellite+Orbital+Deployer+(P-POD)+Developed+by+Cal+Poly%2c+San+Luis+Obispo.+%5bCal+Poly%5d&simid=608006819706994455&FORM=IRPRST&ck=B62FCDD6BFB94EE8D9DD1F8940825B6B&selectedIndex=15&itb=0))
+- ![]((https://www.bing.com/images/search?view=detailV2&ccid=SKZzs72l&id=2E71D4F5A7C9560282ADFFE1BAD5A5E2356A8DDF&thid=OIP.SKZzs72l2HIB7DhdlLJBFwAAAA&mediaurl=https%3a%2f%2fwww.researchgate.net%2fprofile%2fErik_Stromberg2%2fpublication%2f268420981%2ffigure%2ffig7%2fAS%3a295528739950593%401447470950149%2fA-study-of-placing-3U-and-modified-6U-P-Pod-like-deplorers-within-the-volume-of-an_Q320.jpg&exph=302&expw=302&q=Poly-Picosatellite+Orbital+Deployer+(P-POD)+Developed+by+Cal+Poly%2c+San+Luis+Obispo.+%5bCal+Poly%5d&simid=608006819706994455&FORM=IRPRST&ck=B62FCDD6BFB94EE8D9DD1F8940825B6B&selectedIndex=15&itb=0))
 
 ---
 # LAB EXERCISES
