@@ -83,7 +83,18 @@ Microprocessors and microcontrollers are integral components in satellite system
 Basic modulation techniques used to encode digital information onto an analog carrier signal for transmission over communication channels. There are three basic digital modulation types:-
 - Amplitude Shift Keying (ASK):
      ASK starts with a high-frequency carrier signal, typically a sinusoidal wave, which acts as the carrier for transmitting digital information. The digital data to be transmitted is in the form of binary bits (0s and 1s).
-  1forhigher amplitude and 0 forlower amplitude or no signal.
+  1 for higher amplitude and 0 for lower amplitude or no signal.
+
+- Frequency Shift Keying (FSK):
+
+  FSK is a digital modulation technique where the frequency of a carrier signal is varied in accordance with the digital data signal being transmitted. It uses a sinusoidal carrier wave of a fixed amplitude and constant period. The digital data to be transmitted is typically in the form of binary bits (0s and 1s). 
+  1 for higher frequency transmittes and 0 for lower frequency transmitted.
+
+
+  
+
+![image](https://github.com/user-attachments/assets/eb810331-e871-481f-b028-dd0c0e651416)
+
 ---
 ---
 # LAB EXERCISES
