@@ -59,8 +59,8 @@ Microprocessors and microcontrollers are integral components in satellite system
 
 
 *1. Uses of Micro-proessor:-*
-+ Microprocessors are used for overall control and management of system.
-dxss It handles commands & data processing, and manages communication with ground station.
+- Microprocessors are used for overall control and management of system.
+- It handles commands & data processing, and manages communication with ground station.
 - Microprocessors contribute to satellite navigation systems by processing data from onboard sensors.
 
 *2. Uses of Micro-controllers:-*
