@@ -108,7 +108,7 @@ Basic modulation techniques used to encode digital information onto an analog ca
 
 ![image](https://github.com/user-attachments/assets/eb810331-e871-481f-b028-dd0c0e651416)
 
-# LoRa (Long Range) :-
+> # **LoRa (Long Range)* :-
 > ## *What is LoRa Module?*
 
  - A LoRa module refers to a device or a component that incorporates LoRa (Long Range) modulation technology for wireless communication.
