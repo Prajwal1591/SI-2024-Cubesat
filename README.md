@@ -75,7 +75,7 @@ void setup(){
   }
 ```
 >code for mytiple blinking lights
-'''python
+```python
 #define LED1 2
 #define LED2 4
 #define LED3 5
@@ -113,4 +113,4 @@ void loop(){
   digitalWrite(LED5,LOW);
   delay(100);
 }
-'''
+```
