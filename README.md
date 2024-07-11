@@ -113,9 +113,7 @@ Basic modulation techniques used to encode digital information onto an analog ca
 
    - LoRa Modulation:
           It uses a sprad spectrum modulation technique to provide long-range communication with relatively lower power consumption.
-   - Features:
-
-        LoRa modules often include features such as error correction coding, adaptive data rate adjustment, and support for different spreading factors
+   - Features: LoRa modules often include features such as error correction coding, adaptive data rate adjustment, and support for different spreading factors
 ---
 ---
 # LAB EXERCISES
