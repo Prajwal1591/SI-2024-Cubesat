@@ -119,8 +119,8 @@ Basic modulation techniques used to encode digital information onto an analog ca
           It uses a sprad spectrum modulation technique to provide long-range communication with relatively lower power consumption.
    - Features: LoRa modules often include features such as error correction coding, adaptive data rate adjustment, and support for different spreading factors
 
-- Features:
-    LoRa uses license-free sub-gigahertz radio frequency bands((such as 433 MHz, 868 MHz or 915 MHz). LoRa modules often include features such as error correction coding, adaptive data rate adjustment, and support for different spreading factors 
+  
+   - LoRa uses license-free sub-gigahertz radio frequency bands((such as 433 MHz, 868 MHz or 915 MHz). LoRa modules often include features such as error correction coding, adaptive data rate adjustment, and support for different spreading factors 
 ---
 ---
 # LAB EXERCISES
