@@ -120,7 +120,14 @@ Basic modulation techniques used to encode digital information onto an analog ca
    - Features: LoRa modules often include features such as error correction coding, adaptive data rate adjustment, and support for different spreading factors
 
   
-   - LoRa uses license-free sub-gigahertz radio frequency bands((such as 433 MHz, 868 MHz or 915 MHz). LoRa modules often include features such as error correction coding, adaptive data rate adjustment, and support for different spreading factors 
+   - LoRa uses license-free sub-gigahertz radio frequency bands((such as 433 MHz, 868 MHz or 915 MHz). LoRa modules often include features such as error correction coding, adaptive data rate adjustment, and support for different spreading factors.
+
+     
+![image](https://github.com/user-attachments/assets/9a0ed236-e651-4f6c-8a84-6b34d4175622)
+
+![Uploading image.png…]()
+
+ 
 ---
 ---
 # LAB EXERCISES
