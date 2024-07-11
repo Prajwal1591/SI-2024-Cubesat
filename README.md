@@ -7,7 +7,7 @@
 
   CubeSat or Cube Satellite is a type of miniaturized satellite used for space research. It is as smaller as that of 1U of CubeSat=10 cm with mass of 1-1.33kg(s). The CubeSat Project began as a collaborative effort between Prof. Jordi Puig-Suari at California Polytechnic State University (Cal Poly), San Luis Obispo, and Prof. Bob Twiggs at Stanford University’s Space Systems Development Laboratory (SSDL). 
 -  ![image](https://github.com/Prajwal1591/SI-2024-Cubesat/assets/174081452/3b5c551a-351d-4d06-acc6-8e87180cf455)
-> ## Why Cubesat
+> ### Why Cubesat
 
 
    CubeSats are beneficial as-
