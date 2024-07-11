@@ -6,7 +6,7 @@
 
 
   CubeSat or Cube Satellite is a type of miniaturized satellite used for space research. It is as smaller as that of 1U of CubeSat=10 cm with mass of 1-1.33kg(s). The CubeSat Project began as a collaborative effort between Prof. Jordi Puig-Suari at California Polytechnic State University (Cal Poly), San Luis Obispo, and Prof. Bob Twiggs at Stanford University’s Space Systems Development Laboratory (SSDL). 
--  ![image](https://github.com/Prajwal1591/SI-2024-Cubesat/assets/174081452/3b5c551a-351d-4d06-acc6-8e87180cf455)
+  ![image](https://github.com/Prajwal1591/SI-2024-Cubesat/assets/174081452/3b5c551a-351d-4d06-acc6-8e87180cf455)
 > ### Why Cubesat
 
 
@@ -22,10 +22,13 @@
  A dispenser system refers to a mechanism or device used to release satellites, payloads, or CubeSats into space from a launch vehicle.
  It provides attachment to the launching vehicles.
  The first dispenser for CubeSats was the Poly-Picosatellite Orbital Deployer (P-POD). It was developed by Cal Poly, San Luis Obispo.
+ ![image](https://github.com/Prajwal1591/SI-2024-Cubesat/assets/174081452/d19e07cf-a2e2-4740-abcc-e11f76c02b00)
+
 
 
  > ##
-![image](https://github.com/Prajwal1591/SI-2024-Cubesat/assets/174081452/1499b083-6855-44c7-bee3-13c9ce5b6976)
+![image](https://github.com/user-attachments/assets/9b5b0ad7-a586-444c-9e48-d286478885c7)
+
 
  
 > ## Minimal Payload
@@ -73,6 +76,8 @@ Microprocessors and microcontrollers are integral components in satellite system
 - Microcontrollers are utilized in satellites for embedded systems applications, such as controlling subsystems and instruments.
 - Microcontrollers play a role in managing power distribution and ensuring efficient energy usage.
 - Microcontrollers often implement fault detection mechanisms and autonomous recovery procedures to relieve anomalies and ensure satellite operational reliability.
+
+  > ##
 ---
 ---
 # LAB EXERCISES
