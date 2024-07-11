@@ -127,7 +127,9 @@ correction coding, adaptive data rate adjustment, and support for different spre
 
   Shannon–Hartley theorem tells the maximum rate at which information can be transmitted over a communications channel of a specified bandwidth in the presence of noise.
   Mathematically,
-                       ===C = Blog<sub>2</sub>(1 + S/N)===
+                       ==C = Blog<sub>2</sub>(1 + S/N)==
+ 
+  
   where,
      C is the channnel capacity in bits per second;
      B is the bandwidth of the channel in hertz ;
