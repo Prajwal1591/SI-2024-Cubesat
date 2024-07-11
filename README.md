@@ -133,15 +133,15 @@ correction coding, adaptive data rate adjustment, and support for different spre
  
   
   where,
-   C is the channnel capacity in bits per second;
+   C is the channnel capacity in bits per second ;
      
    B is the bandwidth of the channel in hertz ;
      
-   S is the average received signal power over the bandwidth in watts
+   S is the average received signal power over the bandwidth in watts ;
      
    N is the avg power of the noise and interference over the bandwidth in watts;
      
-   S/N is the Signal to Noise Ratio (SNR)
+   S/N is the Signal to Noise Ratio (SNR).
 
    
 
