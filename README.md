@@ -11,7 +11,10 @@
 > Minimal Payload
 -  It refers to the basic set of components and functionalities necessary to support communication tasks between the satellite and ground stations or between satellites in space.
 > CubeSat Architecture
-- CubeSat architecture is the standardized design and structure of these small satellites. CubeSats are characterized by their modular and scalable architecture, which enables rapid and cost-effective development, deployment, and operation in space.   
+- CubeSat architecture is the standardized design and structure of these small satellites. CubeSats are characterized by their modular and scalable architecture, which enables rapid and cost-effective development, deployment, and operation in space.
+> CubeSat Communication System
+- Communication system of cubesat acts as a linkage between the satellite in space and the ground satellites.
+   
 
 ---
 # LAB EXERCISES
