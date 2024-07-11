@@ -23,8 +23,17 @@
    CubeSats operate in various frequency bands allocated for space communication, such as UHF (Ultra High Frequency), S-band, X-band, and others.
 4. Command and Telemetry:
   CubeSats transmit telemetry data to ground stations, providing information about the satellite's health, status, and operational parameters.
-  
+  > Micro processors and Micro controllers
+  - microprocessors and microcontrollers are integral components in satellite systems, contributing to overall functionality, data processing capabilities, communication efficiency, and mission success in various Earth observation, communication, scientific exploration, and technology demonstration missions
+1. Uses of Micro-proessor:-
+- Microprocessors are used for overall control and management of system.
+- It handles commands & data processing, and manages communication with ground station.
+- Microprocessors contribute to satellite navigation systems by processing data from onboard sensors.
 
+2. Uses of Micro-controllers:-
+- Microcontrollers are utilized in satellites for embedded systems applications, such as controlling subsystems and instruments.
+- Microcontrollers play a role in managing power distribution and ensuring efficient energy usage.
+- Microcontrollers often implement fault detection mechanisms and autonomous recovery procedures to relieve anomalies and ensure satellite operational reliability.
 ---
 # LAB EXERCISES
 ## **Lab-01**
