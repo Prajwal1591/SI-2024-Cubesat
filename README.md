@@ -25,10 +25,10 @@
   CubeSats transmit telemetry data to ground stations, providing information about the satellite's health, status, and operational parameters.
   
   > Micro processors and Micro controllers
-  -Microprocesor is a subset of microcontrollers as microcontrollers are made up of microprocessor with some peripheral participants(such as touch semsors, bluetooth, wi-fi and many more).
+  - Microprocesor is a subset of microcontrollers as microcontrollers are made up of microprocessor with some peripheral participants(such as touch semsors, bluetooth, wi-fi and many more).
   - microprocessors and microcontrollers are integral components in satellite systems, contributing to overall functionality, data processing capabilities, communication efficiency, and mission success in various Earth observation, communication, scientific exploration, and technology demonstration missions
 1. Uses of Micro-proessor:-
-- Microprocessors are used for overall control and management of system.
++ Microprocessors are used for overall control and management of system.
 - It handles commands & data processing, and manages communication with ground station.
 - Microprocessors contribute to satellite navigation systems by processing data from onboard sensors.
 
