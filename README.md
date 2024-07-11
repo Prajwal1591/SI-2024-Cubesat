@@ -91,9 +91,10 @@ Basic modulation techniques used to encode digital information onto an analog ca
   Fhase Shift Keying is a digital modulation technique where the frequency of a carrier signal is varied in accordance with the digital data signal being transmitted. It uses a sinusoidal carrier wave of a fixed amplitude and constant period. The digital data to be transmitted is typically in the form of binary bits (0s and 1s). 
   1 for higher frequency transmittes and 0 for lower frequency transmitted.
 
--(PSK)
 
-  Frequency Shift Keying is a digital modulation technique where the phase of the carrier signal is varied in discrete steps according to the digital data being transmitted which starts with a high-frequency sinusoidal carrier wave, which serves as the carrier for transmitting digital information. The digital data to be transmitted is typically in the form of binary bits (0s and 1s).
+- Phase SHift Keying (PSK):
+
+   Frequency Shift Keying is a digital modulation technique where the phase of the carrier signal is varied in discrete steps according to the digital data being transmitted which starts with a high-frequency sinusoidal carrier wave, which serves as the carrier for transmitting digital information. The digital data to be transmitted is typically in the form of binary bits (0s and 1s).
 Most ost common forms of PSK are Binary Phase Shift Keying (BPSK), Quadrature Phase Shift Keying (QPSK), and higher-order PSK such as 8-PSK or 16-PSK.
 In BPSK, two phase shifts are used: typically 0 degrees and 180 degrees. Each phase shift represents one binary digit (bit) while in QPSK, four phase shifts are used (0 degrees, 90 degrees, 180 degrees, and 270 degrees), allowing each symbol to represent two bits of binary data.
 
