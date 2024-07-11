@@ -36,14 +36,19 @@
 
   It refers to the basic set of components and functionalities necessary to support communication tasks between the satellite and ground stations or between satellites in space.
   The minimal payload is the basic equipment or instruments they carry to achieve their mission goals. It could be something as simple as a small camera for taking pictures of Earth or A basic radio for sending and receiving signals. These payloads are designed to fit within the CubeSat's small size.
-![SmartSelect_20240711_174010_Drive](https://github.com/Prajwal1591/SI-2024-Cubesat/assets/174081452/015c7014-89b7-40d6-a4b1-6a0922787006)     
+  
+![image](https://github.com/user-attachments/assets/b144cc6e-60fb-45af-b5bf-21162e2a9325)
 
 
 
 > ## CubeSat Architecture
  CubeSat architecture is the standardized design and structure of these small satellites. CubeSats are characterized by their modular and scalable architecture, which enables rapid and cost-effective development, deployment, and operation in space.
-- ---
-> ## CubeSat Communication System
+
+ ![image](https://github.com/user-attachments/assets/e5d5b075-b5bb-4314-a6ef-3d9d70733369)
+ 
+
+ ---
+> ## CubeSat Communication System :-
 - Communication system of cubesat acts as a linkage between the satellite in space and the ground satellites. Various components associated with communication system are:-
 
 **Antennas:**
