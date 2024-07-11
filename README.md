@@ -1,5 +1,5 @@
 ## CubeSat 
-![](https://i0.wp.com/asiatimes.com/wp-content/uploads/2021/07/CubeSat.png?resize=1568%2C1029&ssl=1)
+![image](https://github.com/user-attachments/assets/e32dfb36-6480-4903-a882-e1b50f86cf57)
 
 
 > ### What is CubeSat
