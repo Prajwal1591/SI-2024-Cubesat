@@ -12,6 +12,7 @@
 -  It refers to the basic set of components and functionalities necessary to support communication tasks between the satellite and ground stations or between satellites in space.
 > CubeSat Architecture
 - CubeSat architecture is the standardized design and structure of these small satellites. CubeSats are characterized by their modular and scalable architecture, which enables rapid and cost-effective development, deployment, and operation in space.
+- ---
 > CubeSat Communication System
 - Communication system of cubesat acts as a linkage between the satellite in space and the ground satellites. Various components associated with communication system are :-    
 1.Antennas:
@@ -22,6 +23,7 @@
    CubeSats operate in various frequency bands allocated for space communication, such as UHF (Ultra High Frequency), S-band, X-band, and others.
 4. Command and Telemetry:
   CubeSats transmit telemetry data to ground stations, providing information about the satellite's health, status, and operational parameters.
+  
 
 ---
 # LAB EXERCISES
