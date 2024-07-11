@@ -1,8 +1,10 @@
 # CubeSat 
 ---
-> CubeSat
+>  What is CubeSat
 -  CubeSat or Cube Satellite is a type of miniaturized satellite used for space research.
 -  It is as smaller as that of 1U of CubeSat=10 cm with mass of 1-1.33kg(s)
+-  ![image](https://github.com/Prajwal1591/SI-2024-Cubesat/assets/174081452/3b5c551a-351d-4d06-acc6-8e87180cf455)
+
 -  ![](https://i0.wp.com/asiatimes.com/wp-content/uploads/2021/07/CubeSat.png?resize=1568%2C1029&ssl=1)
 > Dispenser System
  A dispenser system refers to a mechanism or device used to release satellites, payloads, or CubeSats into space from a launch vehicle.
