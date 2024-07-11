@@ -123,8 +123,14 @@ correction coding, adaptive data rate adjustment, and support for different spre
 
 ![image](https://github.com/user-attachments/assets/172e496a-38a5-4866-ade4-e29760068847)
 
+## Introduction to CMOS VLSI Design:
 
- 
+   CMOS VLSI (Complementary Metal-Oxide-Semiconductor Very Large-Scale Integration) design refers to the process of designing ICs using CMOS technology.
+   Cmos is a semiconductor technology used to fabricate most of today's digital integrated circuits. It employs both NMOS and PMOS transistors to provide low power consumption as well as higher packing density.
+
+   > bonding pattern of cmos vlsi-
+![image](https://github.com/user-attachments/assets/3a233677-0ffc-437f-8414-b5c47a0bc40f)
+
 ---
 ---
 # LAB EXERCISES
