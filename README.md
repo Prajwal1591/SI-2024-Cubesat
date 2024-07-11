@@ -1,7 +1,7 @@
 # CubeSat
 ---
 # LAB EXERCISES
-##** Lab-01 **
+## **Lab-01**
 > Introduction to ESP-32
 1.Installation and Configuration
 # Lab-02
