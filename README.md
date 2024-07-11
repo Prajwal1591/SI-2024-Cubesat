@@ -8,7 +8,9 @@
 -  ![image](https://github.com/Prajwal1591/SI-2024-Cubesat/assets/174081452/3b5c551a-351d-4d06-acc6-8e87180cf455)
 > Why Cubesat
  1. As weight and size is small, therefore it is cost effective.
- 2. 
+ 2. CubeSats can be used for a wide range of missions including Earth observation, scientific research, technology demonstration, communications, and more
+ 3. CubeSats adhere to standardized sizes (e.g., 1U, 2U, 3U, etc.), which makes them easier to design, build, and integrate into launch vehicles.
+ 4. CubeSats can be used to test new technologies or techniques in space with lower financial risk compared to larger, more expensive satellites.
 > Dispenser System
  A dispenser system refers to a mechanism or device used to release satellites, payloads, or CubeSats into space from a launch vehicle.
  It provides attachment to the launching vehicles.
