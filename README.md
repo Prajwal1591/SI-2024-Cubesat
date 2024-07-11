@@ -5,13 +5,13 @@
 -  It is as smaller as that of 1U of CubeSat=10 cm with mass of 1-1.33kg(s)
 -  ![](https://i0.wp.com/asiatimes.com/wp-content/uploads/2021/07/CubeSat.png?resize=1568%2C1029&ssl=1)
 > Dispenser System
-- A dispenser system refers to a mechanism or device used to release satellites, payloads, or CubeSats into space from a launch vehicle.
-- It provides attachment to the launching vehicles.
-- The first dispenser for CubeSats was the Poly-Picosatellite Orbital Deployer (P-POD). It was developed by Cal Poly, San Luis Obispo.
+ A dispenser system refers to a mechanism or device used to release satellites, payloads, or CubeSats into space from a launch vehicle.
+ It provides attachment to the launching vehicles.
+ The first dispenser for CubeSats was the Poly-Picosatellite Orbital Deployer (P-POD). It was developed by Cal Poly, San Luis Obispo.
 > Minimal Payload
--  It refers to the basic set of components and functionalities necessary to support communication tasks between the satellite and ground stations or between satellites in space.
+  It refers to the basic set of components and functionalities necessary to support communication tasks between the satellite and ground stations or between satellites in space.
 > CubeSat Architecture
-- CubeSat architecture is the standardized design and structure of these small satellites. CubeSats are characterized by their modular and scalable architecture, which enables rapid and cost-effective development, deployment, and operation in space.
+ CubeSat architecture is the standardized design and structure of these small satellites. CubeSats are characterized by their modular and scalable architecture, which enables rapid and cost-effective development, deployment, and operation in space.
 - ---
 > CubeSat Communication System
 - Communication system of cubesat acts as a linkage between the satellite in space and the ground satellites. Various components associated with communication system are :-    
@@ -25,8 +25,8 @@
   CubeSats transmit telemetry data to ground stations, providing information about the satellite's health, status, and operational parameters.
   
   > Micro processors and Micro controllers
-  - Microprocesor is a subset of microcontrollers as microcontrollers are made up of microprocessor with some peripheral participants(such as touch semsors, bluetooth, wi-fi and many more).
-  - microprocessors and microcontrollers are integral components in satellite systems, contributing to overall functionality, data processing capabilities, communication efficiency, and mission success in various Earth observation, communication, scientific exploration, and technology demonstration missions
+     Microprocesor is a subset of microcontrollers as microcontrollers are made up of microprocessor with some peripheral participants(such as touch semsors, bluetooth, wi-fi and many more).
+   Microprocessors and microcontrollers are integral components in satellite systems, contributing to overall functionality, data processing capabilities, communication efficiency, and mission success in various Earth observation, communication, scientific exploration, and technology demonstration missions.
 1. Uses of Micro-proessor:-
 + Microprocessors are used for overall control and management of system.
 - It handles commands & data processing, and manages communication with ground station.
