@@ -1,13 +1,13 @@
-# Introduction to CubeSat
+# CubeSat
 ---
-#LAB EXERCISES
-## Lab-01
-### Introduction to ESP-32
+# LAB EXERCISES
+##** Lab-01 **
+> Introduction to ESP-32
 1.Installation and Configuration
 # Lab-02
 1.Blinking lights
 # Lab-04
-- 
+> Printing Tempersture and Humidity in oled display via ESP-32
 ```python
 #include<Wire.h>
 #include<Adafruit_GFX.h>
