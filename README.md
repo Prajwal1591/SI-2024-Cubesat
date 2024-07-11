@@ -3,9 +3,52 @@
 # LAB EXERCISES
 ## **Lab-01**
 > Introduction to ESP-32
+
 1.Installation and Configuration
 # Lab-02
-1.Blinking lights
+1.Blinking lights using ESP-32
+# Lab-03
+> Blinking multiple lights
+> ```python
+#define LED1 2
+#define LED2 4
+#define LED3 5
+#define LED4 18
+#define LED5 19
+
+void setup(){
+  pinMode(LED1,OUTPUT);
+  pinMode(LED2,OUTPUT);
+  pinMode(LED3,OUTPUT);
+  pinMode(LED4,OUTPUT);
+  pinMode(LED5,OUTPUT);
+  
+}
+
+void loop(){
+  digitalWrite(LED1,HIGH);
+  delay()100;
+  digitalWrite(LED1,LOW);
+  delay(100);
+  digitalWrite(LED2,HIGH);
+  delay()100;
+  digitalWrite(LED2,LOW);
+  delay(100);
+  digitalWrite(LED3,HIGH);
+  delay()100;
+  digitalWrite(LED3,LOW);
+  delay(100);
+  digitalWrite(LED4,HIGH);
+  delay()100;
+  digitalWrite(LED4,LOW);
+  delay(100);
+  digitalWrite(LED5,HIGH);
+  delay()100;
+  digitalWrite(LED5,LOW);
+  delay(100);
+}
+```
+
 # Lab-04
 > Printing Tempersture and Humidity in oled display via ESP-32
 ```python
@@ -74,44 +117,4 @@ void setup(){
   
 
   }
-```
->code for mytiple blinking lights
-```python
-#define LED1 2
-#define LED2 4
-#define LED3 5
-#define LED4 18
-#define LED5 19
-
-void setup(){
-  pinMode(LED1,OUTPUT);
-  pinMode(LED2,OUTPUT);
-  pinMode(LED3,OUTPUT);
-  pinMode(LED4,OUTPUT);
-  pinMode(LED5,OUTPUT);
-  
-}
-
-void loop(){
-  digitalWrite(LED1,HIGH);
-  delay()100;
-  digitalWrite(LED1,LOW);
-  delay(100);
-  digitalWrite(LED2,HIGH);
-  delay()100;
-  digitalWrite(LED2,LOW);
-  delay(100);
-  digitalWrite(LED3,HIGH);
-  delay()100;
-  digitalWrite(LED3,LOW);
-  delay(100);
-  digitalWrite(LED4,HIGH);
-  delay()100;
-  digitalWrite(LED4,LOW);
-  delay(100);
-  digitalWrite(LED5,HIGH);
-  delay()100;
-  digitalWrite(LED5,LOW);
-  delay(100);
-}
 ```
