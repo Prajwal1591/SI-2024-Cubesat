@@ -123,12 +123,25 @@ correction coding, adaptive data rate adjustment, and support for different spre
 
 ![image](https://github.com/user-attachments/assets/172e496a-38a5-4866-ade4-e29760068847)
 
+> ### Shannon-Hartley Theorem
+
+  Shannon–Hartley theorem tells the maximum rate at which information can be transmitted over a communications channel of a specified bandwidth in the presence of noise.
+
+  {\displaystyle C=B\log _{2}\left(1+{\frac {S}{N}}\right)}
+                                      where, C is the channnel capacity in bits per second;
+                                             B is the bandwidth of the channel in hertz ;
+                                             S is the average received signal power over the bandwidth in watts
+                                             N is the avg power of the noise and interference over the bandwidth in watts;
+                                             S/N is the Signal to Noise Ratio (SNR)
+
+   
+
 ## Introduction to CMOS VLSI Design:
 
    CMOS VLSI (Complementary Metal-Oxide-Semiconductor Very Large-Scale Integration) design refers to the process of designing ICs using CMOS technology.
    Cmos is a semiconductor technology used to fabricate most of today's digital integrated circuits. It employs both NMOS and PMOS transistors to provide low power consumption as well as higher packing density.
 
-   > bonding pattern of cmos vlsi-
+   > bonding pattern of cmos vlsi design:
 ![image](https://github.com/user-attachments/assets/3a233677-0ffc-437f-8414-b5c47a0bc40f)
 
 ---
