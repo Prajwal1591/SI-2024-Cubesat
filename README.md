@@ -9,7 +9,7 @@
 1.Blinking lights using ESP-32
 # Lab-03
 > Blinking multiple lights
-> ```python
+ ```python
 #define LED1 2
 #define LED2 4
 #define LED3 5
