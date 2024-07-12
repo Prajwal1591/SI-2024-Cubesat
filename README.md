@@ -194,13 +194,10 @@ correction coding, adaptive data rate adjustment, and support for different spre
    There are different typesof antenna used according to their different uses and frequencies.
 
   - Dipole Antenna:
-
-       \\It is the Simplest form of antennas which are  often used for radio and television broadcasting.  A dipole antenna consists of a conductive wire or rod that is divided into two equal halves oriented in a straight line. The length of each half of the dipole antenna is typically half of the wavelength (λ/2) of the frequency.
+       \It is the Simplest form of antennas which are  often used for radio and television broadcasting.  A dipole antenna consists of a conductive wire or rod that is divided into two equal halves oriented in a straight line. The length of each half of the dipole antenna is typically half of the wavelength (λ/2) of the frequency.
 
    - Yagi-Uda Antenna:
-
-
-      is a directional antenna commonly used for communication in the high-frequency bands.
+   \It is a directional antenna commonly used for communication in the high-frequency bands.
    It was devloped bytwo peoples of JApan in early 1920s. Yagi-Uda antenna is highly directional, meaning it focuses its radiation pattern in one direction while suppressing signals from other directions. Yagi-Uda antenna is highly directional, meaning it focuses its radiation pattern in one direction while suppressing signals from other directions.
 
    - Parabolic Antenna:
