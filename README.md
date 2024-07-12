@@ -367,11 +367,11 @@ void loop(){
 ```
 
 
- ![I2C oled display](https://github.com/user-attachments/assets/7365a8b4-d2f2-4d0e-90ad-60e920136a6b)
  
 > # Lab9:-
 - I2C OLED DISPLAY TEMPERATURE & HUMDITY SENSOSOR
-- 
+
+  
 ```python
 #include<Wire.h>
 #include<Adafruit_GFX.h>
