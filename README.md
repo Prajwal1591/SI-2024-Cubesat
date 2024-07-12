@@ -53,7 +53,8 @@
 
  ---
 > ## CubeSat Communication System :-
-- Communication system of cubesat acts as a linkage between the satellite in space and the ground satellites. Various components associated with communication system are:-
+- Communication system of cubesat acts as a linkage between the satellite in space and the ground satellites.
+   Various components associated with communication system are:-
 
 **Antennas:**
              CubeSats may use deployable antennas that unfold or extend after launch to optimize signal transmission and reception. Some cuesat uses fixed antennas that are integrated in the structure.
@@ -120,7 +121,7 @@ Basic modulation techniques used to encode digital information onto an analog ca
 
   
 
-![image](https://github.com/user-attachments/assets/eb810331-e871-481f-b028-dd0c0e651416)
+  ![image](https://github.com/user-attachments/assets/eb810331-e871-481f-b028-dd0c0e651416)
 
 
 > # *LoRa (Long Range)* :-
