@@ -228,15 +228,34 @@ correction coding, adaptive data rate adjustment, and support for different spre
 # LAB EXERCISES
 
 > ## Lab01:-
- ![lab 01 code- To blink light on the Dev board](labcodes/Lab 01- Code to blink led on dev board)
+ 
 
 
  > ## Lab02:-
 - Introduction to GPIO pins
        GPIO stands for *General Purpose Input/Output*.
 GPIO pins are physical connections on a microcontroller that can be programmed to served as either digital input or output pins.
+
+
 ![image](https://github.com/user-attachments/assets/44255b59-2643-4759-aada-c8507a24cfbc)
+
+*Code-*
 ```python
+#define LED 15
+//the setup function runs once when you press reset or power to button
+void setup() {
+  // initialize digital pin LED_Builtin as an output.
+  pinMode(LED, OUTPUT);
+}
+
+//the loop function runs over and over again forever
+void loop() {
+ digitalWrite(LED, HIGH);   //turn the LED on (HIGH is the voltage level)
+ delay(1000);              // wait for a second
+ digitalWrite(LED, LOW);   // turn the LED off by making the voltage high.
+ delay(1000);             // wait for a second
+
+}
 
 ```
 
