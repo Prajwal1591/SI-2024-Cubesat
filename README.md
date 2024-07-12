@@ -73,6 +73,16 @@
   > ## Micro processors and Micro controller
 
   Microprocesor is a subset of microcontrollers as microcontrollers are made up of microprocessor with some peripheral participants(such as touch semsors, bluetooth, wi-fi and many more).
+  
+  The peripherial participants are:-
+
+1. Touch Sensor
+2. Analog to Digital Converter (ADC)
+3. Digitsl to Analog COnverter (DAC)
+4.  Wi-fi
+5. Bluetooth
+6. Pulse Width Modulation (PWM).
+  
 Microprocessors and microcontrollers are integral components in satellite systems, contributing to overall functionality, data processing capabilities, communication efficiency, and mission success in various Earth observation, communication, scientific exploration, and technology demonstration missions.   
 
 
@@ -163,7 +173,29 @@ correction coding, adaptive data rate adjustment, and support for different spre
 ![image](https://github.com/user-attachments/assets/3a233677-0ffc-437f-8414-b5c47a0bc40f)
 
 ;-
-> # Intoduction to Antennas 
+> # Intoduction to Antennas
+
+   Antennas are devices designed to transmit or receive electromagnetic waves. They are essential components in communication systems, allowing the transmission and reception of radio frequency (RF) signals. Antennas are used to convert electrical signals into electromagnetic waves or vice-versa.
+
+> ## Typer of Antenna
+
+   There are different typesof antenna used according to their different uses and frequencies.
+
+  - Dipole Antenna:
+            It is the Simplest form of antennas which are  often used for radio and television broadcasting.  A dipole antenna consists of a conductive wire or rod that is divided into two equal halves oriented in a straight line. The length of each half of the dipole antenna is typically half of the wavelength (λ/2) of the frequency.
+
+ - Yagi-Uda Antenna:
+      is a directional antenna commonly used for communication in the high-frequency bands.
+   It was devloped bytwo peoples of JApan in early 1920s. Yagi-Uda antenna is highly directional, meaning it focuses its radiation pattern in one direction while suppressing signals from other directions. Yagi-Uda antenna is highly directional, meaning it focuses its radiation pattern in one direction while suppressing signals from other directions.
+
+- Parabolic Antenna:
+       Ita likely a disk shaped reflector consisting of feed point at its focal length. It is mostly used for satellite communication and long-distance microwave links.
+
+- Horn Antenna:
+       Horn antennas are a type of directional antenna characterized by their horn-shaped structure. They are widely used in microwave and RF applications due to their ability to efficiently transmit and receive electromagnetic waves.
+
+- Helical Antenna:
+    Horn antennas are helical-shaped directional antennas used for satellite communication, wireless systems, radar, and radio astronomy.
 
 ---
 ---
