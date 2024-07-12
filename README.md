@@ -74,18 +74,18 @@
   
   > ## Micro processors and Micro controller
 
-  *Microprocesor is a subset of microcontrollers as microcontrollers are made up of microprocessor with some peripheral participants(such as touch semsors, bluetooth, wi-fi and many more).
+  *Microprocesor is a subset of microcontrollers as microcontrollers are made up of microprocessor with some peripheral participants(such as touch semsors, bluetooth, wi-fi and many more).*
   
   The peripherial participants are:-
 
-1. Touch Sensor
+*1. Touch Sensor
 2. Analog to Digital Converter (ADC)
 3. Digitsl to Analog COnverter (DAC)
 4.  Wi-fi
 5. Bluetooth
-6. Pulse Width Modulation (PWM).
+6. Pulse Width Modulation (PWM).*
   
-Microprocessors and microcontrollers are integral components in satellite systems, contributing to overall functionality, data processing capabilities, communication efficiency, and mission success in various Earth observation, communication, scientific exploration, and technology demonstration missions.*   
+*Microprocessors and microcontrollers are integral components in satellite systems, contributing to overall functionality, data processing capabilities, communication efficiency, and mission success in various Earth observation, communication, scientific exploration, and technology demonstration missions.*   
 
 
 *1. Uses of Micro-proessor:-*
@@ -101,7 +101,8 @@ Microprocessors and microcontrollers are integral components in satellite system
 
 > ## Basic Digital Modulation Methods
 
-Basic modulation techniques used to encode digital information onto an analog carrier signal for transmission over communication channels. There are three basic digital modulation types:-
+*Basic modulation techniques used to encode digital information onto an analog carrier signal for transmission over communication channels.*
+There are three basic digital modulation types:-
 - Amplitude Shift Keying (ASK):
 
    Amplitude Shift Keying starts with a high-frequency carrier signal, typically a sinusoidal wave, which acts as the carrier for transmitting digital information. The digital data to be transmitted is in the form of binary bits (0s and 1s).
