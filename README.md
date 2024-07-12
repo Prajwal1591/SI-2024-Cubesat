@@ -227,7 +227,9 @@ correction coding, adaptive data rate adjustment, and support for different spre
 ---
  # LAB EXERCISES
 
- > ### LAb-01
+> ### Lab01:-
+
+  
   blinking of light of dev board
  ```python
  #define LED 2
@@ -247,17 +249,13 @@ void loop() {
 }
 ```
 
-> ## Lab01:-
-
-
-
- > ## Lab02:-
-- Introduction to GPIO pins
-       GPIO stands for *General Purpose Input/Output*.
-GPIO pins are physical connections on a microcontroller that can be programmed to served as either digital input or output pins.
-
+ > ### Lab02:-
+- Introduction to GPIO pins:
+  
+    GPIO stands for *General Purpose Input/Output*. GPIO pins are physical connections on a microcontroller that can be programmed to served as either digital input or output pins.
 
 ![image](https://github.com/user-attachments/assets/44255b59-2643-4759-aada-c8507a24cfbc)
+
 
 *Code-*
 ```python
@@ -279,15 +277,164 @@ void loop() {
 
 ```
 
- 
 
-> ## I2C OLED DISPLAY OUTPUT
+> ## Lab03:-
+
+- Dimming LED using PWM
+
+     *PWM stands for Pulse Width Modulation. It is a method used to generate analog-like signals using digital means, primarily by varying the width of the pulse in a periodic signal.*
+```python
+Dimming LED define 
+const int PWM_CHANNEL = 0;    // ESP32 has 16 channels which can generate 16 independent waveforms
+const int PWM_FREQ = 5000;     // Recall that Arduino Uno is ~490 Hz. Official ESP32 example uses 5,000Hz
+const int PWM_RESOLUTION = 8; // We'll use same resolution as Uno (8 bits, 0-255) but ESP32 can go up to 16 bits 
+
+// The max duty cycle value based on PWM resolution (will be 255 if resolution is 8 bits)
+const int MAX_DUTY_CYCLE = (int)(pow(2, PWM_RESOLUTION) - 1); 
+
+const int LED_OUTPUT_PIN = 13;
+
+const int DELAY_MS = 4;  // delay between fade increments
+
+void setup() {
+
+  // Sets up a channel (0-15), a PWM duty cycle frequency, and a PWM resolution (1 - 16 bits) 
+  // ledcSetup(uint8_t channel, double freq, uint8_t resolution_bits);
+  ledcSetup(PWM_CHANNEL, PWM_FREQ, PWM_RESOLUTION);
+
+  // ledcAttachPin(uint8_t pin, uint8_t channel);
+  ledcAttachPin(LED_OUTPUT_PIN, MAX_DUTY_CYCLE);
+}
+
+void loop() {
+
+  // fade up PWM on given channel
+  for(int dutyCycle = 0; dutyCycle <= MAX_DUTY_CYCLE; dutyCycle++){   
+    ledcWrite(PWM_CHANNEL, dutyCycle);
+    delay(DELAY_MS);
+  }
+
+  // fade down PWM on given channel
+  for(int dutyCycle = MAX_DUTY_CYCLE; dutyCycle >= 0; dutyCycle--){
+    ledcWrite(PWM_CHANNEL, dutyCycle);   
+    delay(DELAY_MS);
+  }
+}
+```
+
+> ## Lab07:-
+- I2C-based OLED Display control:
+  
+```python
+
+#include<SPI.h>
+#include<Wire.h>
+#include<Adafruit_GFX.h>
+#include<Adafruit_SSD1306.h>
+
+#define SCREEN_WIDTH 128   //Display's width
+#define SCREEN_HEIGHT 64   //display's height
+#define OLED_RESET    4      //reset pin
+#define SCREEN_ADDRESS 0x3C
+Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
+
+void setup() {
+  Serial.begin(9600);
+  if (!display.begin(SSD1306_SWITCHCAPVCC, SCREEN_ADDRESS)) {
+    Serial.println(F("SSD1306 allocation failed"));
+    for (;;);
+  }
+  delay(2000);
+  display.clearDisplay();
+  display.setTextSize(1);
+  display.setTextColor(SSD1306_WHITE);
+  display.setCursor(0,00);
+  display.println(F("Hello Sliconnites"));
+  display.display();
+  delay(2000);
+}
+
+void loop(){
+  display.startscrollright(0x00,0X0F);
+  delay(2000);
+  display.stopscroll();
+  delay(2000);
+  display.startscrollleft(0x00,0X0F);
+  delay(2000);
+  display.stopscroll();
+  delay(2000);
+}
+```
+
+
  ![I2C oled display](https://github.com/user-attachments/assets/7365a8b4-d2f2-4d0e-90ad-60e920136a6b)
  
-> ## I2C OLED DISPLAY TEMPERATURE & HUMDITY SENSOR
-![temp   humi via oled](https://github.com/user-attachments/assets/5c9345cc-fc4a-4878-92a5-d472fe1f3be4)
+> # Lab9:-
+- I2C OLED DISPLAY TEMPERATURE & HUMDITY SENSOSOR
+  ```python
+  #include<Wire.h>
+#include<Adafruit_GFX.h>
+#include<Adafruit_SSD1306.h>
+#include<Adafruit_Sensor.h>
+#include "DHT.h"
 
 
-> ## VNA Strength
- ![VNA](https://github.com/user-attachments/assets/d9cffd7b-afdd-41c7-82ed-ba9492cfa2a4)
+#define SCREEN_WIDTH 128   //Display's width
+#define SCREEN_HEIGHT 64   //display's height
+Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);
 
+#define DHT11PIN 26
+
+DHT dht(DHT11PIN,DHT11);
+void setup(){
+   Serial.begin(9600);
+   dht.begin();
+  if (!display.begin(SSD1306_SWITCHCAPVCC,0X3C)) {
+    Serial.println(F("SSD1306 allocation failed"));
+    for (;;);
+  }
+  delay(2000);
+  display.clearDisplay();
+  display.setTextSize(1);
+  display.setTextColor(SSD1306_WHITE);
+  display.setCursor(0,00);
+  display.display();
+  delay(2000);
+  dht.begin();
+  }
+  void loop(){
+    delay(5000);
+   float humi = dht.readHumidity();
+   float temp = dht.readTemperature();
+   if(isnan(humi) || isnan(temp)){
+    Serial.println("Failed to read from DHT sensor");
+   }
+
+   display.clearDisplay();
+   
+  display.setTextSize(1);
+  display.setTextColor(SSD1306_WHITE);
+  display.setCursor(0,00);
+  display.println("Temperature:");
+  display.setTextSize(2);
+  display.setTextColor(SSD1306_WHITE);
+  display.setCursor(0,10);
+  display.print(temp);
+  display.print("C");
+
+  
+  display.setTextSize(1);
+  display.setTextColor(SSD1306_WHITE);
+  display.setCursor(0,35);
+  display.println("Humidity:");
+  display.setTextSize(2);
+  display.setTextColor(SSD1306_WHITE);
+  display.setCursor(0,45);
+  display.print(humi);
+  display.print("%");
+
+  display.display();
+  
+
+  }
+  ```
