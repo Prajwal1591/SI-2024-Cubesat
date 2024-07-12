@@ -119,9 +119,7 @@ Basic modulation techniques used to encode digital information onto an analog ca
      Most common forms of PSK are Binary Phase Shift Keying (BPSK), Quadrature Phase Shift Keying (QPSK), and higher-order PSK such as 8-PSK or 16-PSK.
       In BPSK, two phase shifts are used: typically 0 degrees and 180 degrees. Each phase shift represents one binary digit (bit) while in QPSK, four phase shifts are used (0 degrees, 90 degrees, 180 degrees, and 270 degrees), allowing each symbol to represent two bits of binary data.
 
-  
-
-  ![image](https://github.com/user-attachments/assets/eb810331-e871-481f-b028-dd0c0e651416)
+                                                     ![image](https://github.com/user-attachments/assets/eb810331-e871-481f-b028-dd0c0e651416)
 
 
 > # *LoRa (Long Range)* :-
