@@ -177,7 +177,13 @@ correction coding, adaptive data rate adjustment, and support for different spre
 
    Antennas are devices designed to transmit or receive electromagnetic waves. They are essential components in communication systems, allowing the transmission and reception of radio frequency (RF) signals. Antennas are used to convert electrical signals into electromagnetic waves or vice-versa.
 
-> ## Typer of Antenna
+> ## Two wire Antenna and eletric filed lines
+![image](https://github.com/user-attachments/assets/feda2f1f-47f6-4f21-af45-bcfb9fd38ed2)
+
+![image](https://github.com/user-attachments/assets/a240d260-762f-4342-9223-6b748689acd5)
+
+
+> ## Types of Antenna
 
    There are different typesof antenna used according to their different uses and frequencies.
 
