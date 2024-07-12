@@ -228,7 +228,7 @@ correction coding, adaptive data rate adjustment, and support for different spre
 # LAB EXERCISES
 
 > ## Lab01:-
- [lab 01 code- To blink light on the Dev board](labcodes/Lab 01- Code to blink led on dev board)
+ ![lab 01 code- To blink light on the Dev board](labcodes/Lab 01- Code to blink led on dev board)
 
 
  > ## Lab02:-
@@ -236,6 +236,7 @@ correction coding, adaptive data rate adjustment, and support for different spre
        GPIO stands for *General Purpose Input/Output*.
 GPIO pins are physical connections on a microcontroller that can be programmed to served as either digital input or output pins.
 ![image](https://github.com/user-attachments/assets/44255b59-2643-4759-aada-c8507a24cfbc)
+[GPIO Pins](![image](https://github.com/user-attachments/assets/9a7f8b57-d558-4340-9386-e7629e2dc7ae)
 
  
 
