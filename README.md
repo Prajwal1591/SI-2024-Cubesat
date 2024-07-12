@@ -216,8 +216,7 @@ correction coding, adaptive data rate adjustment, and support for different spre
 
    - Helical Antenna:
 
-     
-   Horn antennas are helical-shaped directional antennas used for satellite communication, wireless systems, radar, and radio astronomy.
+        Horn antennas are helical-shaped directional antennas used for satellite communication, wireless systems, radar, and radio astronomy.
 
 ---
 ---
