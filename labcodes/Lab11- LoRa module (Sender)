@@ -1,0 +1,49 @@
+#include<SPI.h>
+#include<LoRa.h>
+
+//TINYGS Pin def
+#define DIO0   26
+#define RST    14
+#define NSS    18
+#define MOSI   27
+#define MISO   19
+#define SCLK   5
+
+int counter=0;
+
+void setup(){
+  Serial.begin(115200);
+  while(!Serial);
+  Serial.println("LoRa sender");
+  
+  SPI.begin(SCLK,MISO,MOSI,NSS);
+  LoRa.setPins(NSS,RST,DIO0);
+
+//replace the LoRa .brgin(--E-) argument with the location frequency
+//433E6 for Asia
+//866E6 for Europe
+//915E6 for North America
+while(!LoRa.begin(433E6)){
+  Serial.println(".");
+  delay(500);
+}
+
+LoRa.setSyncWord(0XF3);
+Serial.println("LoRa Intitializing OK!");
+}
+
+void loop(){
+  Serial.print("Sending Packet:");
+  Serial.println(counter);
+
+
+  //Send LoRa packet to reciever
+  LoRa.beginPacket();
+  LoRa.print("Hello");
+  LoRa.println(counter);
+  LoRa.endPacket();  
+  counter++;
+
+  delay(10000);
+}
+  
