@@ -201,8 +201,9 @@ correction coding, adaptive data rate adjustment, and support for different spre
    - Yagi-Uda Antenna:
    
    
-   It is a directional antenna commonly used for communication in the high-frequency bands.
-   It was devloped bytwo peoples of JApan in early 1920s. Yagi-Uda antenna is highly directional, meaning it focuses its radiation pattern in one direction while suppressing signals from other directions. Yagi-Uda antenna is highly directional, meaning it focuses its radiation pattern in one direction while suppressing signals from other directions.
+      It is a directional antenna commonly used for communication in the high-frequency bands.
+   It was devloped bytwo peoples of JApan in early 1920s. Yagi-Uda antenna is highly directional, meaning it focuses its radiation pattern in one direction while suppressing signals from other directions. Yagi-Uda antenna is highly 
+   directional, meaning it focuses its radiation pattern in one direction while suppressing signals from other directions.
 
    - Parabolic Antenna:
 
