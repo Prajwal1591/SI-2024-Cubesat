@@ -122,15 +122,16 @@ Basic modulation techniques used to encode digital information onto an analog ca
 
 ![image](https://github.com/user-attachments/assets/eb810331-e871-481f-b028-dd0c0e651416)
 
+
 > # *LoRa (Long Range)* :-
-> ## *What is LoRa Module?*
+   > ## *What is LoRa Module?*
 
  - A LoRa module refers to a device or a component that incorporates LoRa (Long Range) modulation technology for wireless communication.
  - LoRa is a modulation technique developed by Semtech that enables long-range communication with low power consumption.
  - It was developed by Cycleo, a company of Grenoble, France, and patented in 2014 and was  was later acquired by Semtech.
    
 
-> ## Key aspects of LoRa Modulation :
+  > ## Key aspects of LoRa Modulation :
 
    - LoRa Modulation: It uses a sprad spectrum modulation technique to provide long-range communication with relatively lower power consumption.
    - Features: LoRa modules often include features such as error correction coding, adaptive data rate adjustment, and support for different spreading factors
@@ -142,7 +143,7 @@ correction coding, adaptive data rate adjustment, and support for different spre
 
 ![image](https://github.com/user-attachments/assets/172e496a-38a5-4866-ade4-e29760068847)
 
-> ### Shannon-Hartley Theorem
+  > ### Shannon-Hartley Theorem
 
   Shannon–Hartley theorem tells the maximum rate at which information can be transmitted over a communications channel of a specified bandwidth in the presence of noise.
   Mathematically,
