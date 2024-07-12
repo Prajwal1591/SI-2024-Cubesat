@@ -215,9 +215,10 @@ correction coding, adaptive data rate adjustment, and support for different spre
 
 
 > ## Lab02-
-+++ Intro to gpiio pins
++++  Intro to gpiio pins..
 labcodes/Lab02- GPIO prog
-+++
+
+ +++
 
 > ## I2C OLED DISPLAY OUTPUT
  ![I2C oled display](https://github.com/user-attachments/assets/7365a8b4-d2f2-4d0e-90ad-60e920136a6b)
