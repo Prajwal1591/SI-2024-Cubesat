@@ -184,7 +184,7 @@ correction coding, adaptive data rate adjustment, and support for different spre
 > ### Two wire Antenna and eletric filed lines
 ![image](https://github.com/user-attachments/assets/feda2f1f-47f6-4f21-af45-bcfb9fd38ed2)
 
-> #3# Two wire Antenna and free space
+> ### Two wire Antenna and free space
 ![image](https://github.com/user-attachments/assets/293acadd-a60c-41d6-85f3-8946ac137ac8)
 
 
