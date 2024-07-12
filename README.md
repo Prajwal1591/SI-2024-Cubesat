@@ -122,6 +122,9 @@ Basic modulation techniques used to encode digital information onto an analog ca
     ![image](https://github.com/user-attachments/assets/eb810331-e871-481f-b028-dd0c0e651416)
 
 
+  > ## ELetromagnetic spectrum
+    ![electromagnetic spectrum](https://github.com/user-attachments/assets/455c017f-8a1d-4ae3-8b93-31c975dbc9bb)
+
 
 
 > # *LoRa (Long Range)* :-
