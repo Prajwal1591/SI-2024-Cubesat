@@ -228,7 +228,7 @@ correction coding, adaptive data rate adjustment, and support for different spre
 # LAB EXERCISES
 
 > ## Lab01:-
- [](labcodes/Lab 01- Code to blink led on dev board)
+ [](https://github.com/Prajwal1591/SI-2024-Cubesat/blob/main/labcodes/Lab%2001-%20Code%20to%20blink%20led%20on%20dev%20board)
 
 
  > ## Lab02:-
