@@ -97,7 +97,7 @@ Microprocessors and microcontrollers are integral components in satellite system
 - Microcontrollers often implement fault detection mechanisms and autonomous recovery procedures to relieve anomalies and ensure satellite operational reliability.
 
 
-  > ## Basic Digital Modulation Methods
+> ## Basic Digital Modulation Methods
 
 Basic modulation techniques used to encode digital information onto an analog carrier signal for transmission over communication channels. There are three basic digital modulation types:-
 - Amplitude Shift Keying (ASK):
