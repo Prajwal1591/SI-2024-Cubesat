@@ -180,7 +180,6 @@ correction coding, adaptive data rate adjustment, and support for different spre
    > bonding pattern of cmos vlsi design:
 ![image](https://github.com/user-attachments/assets/3a233677-0ffc-437f-8414-b5c47a0bc40f)
 
-;-
 > # Intoduction to Antennas
 
    Antennas are devices designed to transmit or receive electromagnetic waves. They are essential components in communication systems, allowing the transmission and reception of radio frequency (RF) signals. Antennas are used to convert electrical signals into electromagnetic waves or vice-versa.
@@ -228,7 +227,17 @@ correction coding, adaptive data rate adjustment, and support for different spre
 ---
 # LAB EXERCISES
 
+> ## Lab01:-
+ [lab 01 code- To blink light on the Dev board](labcodes/Lab 01- Code to blink led on dev board)
 
+
+ > ## Lab02:-
+- Introduction to GPIO pins
+       GPIO stands for *General Purpose Input/Output*.
+GPIO pins are physical connections on a microcontroller that can be programmed to served as either digital input or output pins.
+![image](https://github.com/user-attachments/assets/44255b59-2643-4759-aada-c8507a24cfbc)
+
+ 
 
 > ## I2C OLED DISPLAY OUTPUT
  ![I2C oled display](https://github.com/user-attachments/assets/7365a8b4-d2f2-4d0e-90ad-60e920136a6b)
