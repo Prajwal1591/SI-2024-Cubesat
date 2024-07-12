@@ -225,10 +225,30 @@ correction coding, adaptive data rate adjustment, and support for different spre
 
 ---
 ---
-# LAB EXERCISES
+ # LAB EXERCISES
+
+ > ### LAb-01
+  blinking of light of dev board
+ ```python
+ #define LED 2
+//the setup function runs once when you press reset or power to button
+void setup() {
+  // initialize digital pin LED_Builtin as an output.
+  pinMode(LED, OUTPUT);
+}
+
+//the loop function runs over and over again forever
+void loop() {
+ digitalWrite(LED, HIGH);   //turn the LED on (HIGH is the voltage level)
+ delay(1000);              // wait for a second
+ digitalWrite(LED, LOW);   // turn the LED off by making the voltage high.
+ delay(1000);             // wait for a second
+
+}
+```
 
 > ## Lab01:-
- [](https://github.com/Prajwal1591/SI-2024-Cubesat/blob/main/labcodes/Lab%2001-%20Code%20to%20blink%20led%20on%20dev%20board)
+
 
 
  > ## Lab02:-
