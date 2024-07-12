@@ -18,14 +18,14 @@
  1. As weight and size is small, therefore it is cost effective.
  2. CubeSats can be used for a wide range of missions including Earth observation, scientific research, technology demonstration, communications, and more
  3. CubeSats adhere to standardized sizes (e.g., 1U, 2U, 3U, etc.), which makes them easier to design, build, and integrate into launch vehicles.
- 4. CubeSats can be used to test new technologies or techniques in space with lower financial risk compared to larger, more expensive satellites.
+ 4. CubeSats can be used to test new technologies or techniques in space with lower financial risk compared to larger or more expensive satellites.
 
 
 
 > ## Dispenser System
- A dispenser system refers to a mechanism or device used to release satellites, payloads, or CubeSats into space from a launch vehicle.
+ *A dispenser system refers to a mechanism or device used to release satellites, payloads, or CubeSats into space from a launch vehicle.
  It provides attachment to the launching vehicles.
- The first dispenser for CubeSats was the Poly-Picosatellite Orbital Deployer (P-POD). It was developed by Cal Poly, San Luis Obispo.
+ The first dispenser for CubeSats was the Poly-Picosatellite Orbital Deployer (P-POD). It was developed by Cal Poly, San Luis Obispo.*
  
 ![image](https://github.com/user-attachments/assets/9912b459-ddf2-4216-9360-94249497864f)
 
@@ -38,8 +38,9 @@
 > ## Minimal Payload
 
 
-  It refers to the basic set of components and functionalities necessary to support communication tasks between the satellite and ground stations or between satellites in space.
-  The minimal payload is the basic equipment or instruments they carry to achieve their mission goals. It could be something as simple as a small camera for taking pictures of Earth or A basic radio for sending and receiving signals. These payloads are designed to fit within the CubeSat's small size.
+  *It refers to the basic set of components and functionalities necessary to support communication tasks between the satellite and ground stations or between satellites in space.
+   The minimal payload is the basic equipment or instruments they carry to achieve their mission goals. It could be something as simple as a small camera for taking pictures of Earth or A basic radio for sending and receiving signals. These 
+   payloads are designed to fit within the CubeSat's small size.*
   
 ![image](https://github.com/user-attachments/assets/b144cc6e-60fb-45af-b5bf-21162e2a9325)
 
@@ -53,7 +54,7 @@
 
  ---
 > ## CubeSat Communication System :-
-- Communication system of cubesat acts as a linkage between the satellite in space and the ground satellites.
+   *Communication system of cubesat acts as a linkage between the satellite in space and the ground satellites.*
    Various components associated with communication system are:-
 
 **Antennas:**
@@ -73,7 +74,7 @@
   
   > ## Micro processors and Micro controller
 
-  Microprocesor is a subset of microcontrollers as microcontrollers are made up of microprocessor with some peripheral participants(such as touch semsors, bluetooth, wi-fi and many more).
+  *Microprocesor is a subset of microcontrollers as microcontrollers are made up of microprocessor with some peripheral participants(such as touch semsors, bluetooth, wi-fi and many more).
   
   The peripherial participants are:-
 
@@ -84,7 +85,7 @@
 5. Bluetooth
 6. Pulse Width Modulation (PWM).
   
-Microprocessors and microcontrollers are integral components in satellite systems, contributing to overall functionality, data processing capabilities, communication efficiency, and mission success in various Earth observation, communication, scientific exploration, and technology demonstration missions.   
+Microprocessors and microcontrollers are integral components in satellite systems, contributing to overall functionality, data processing capabilities, communication efficiency, and mission success in various Earth observation, communication, scientific exploration, and technology demonstration missions.*   
 
 
 *1. Uses of Micro-proessor:-*
