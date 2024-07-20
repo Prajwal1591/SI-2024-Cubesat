@@ -224,9 +224,10 @@ correction coding, adaptive data rate adjustment, and support for different spre
 
         Horn antennas are helical-shaped directional antennas used for satellite communication, wireless systems, radar, and radio astronomy.
 > # Setting up of TinyGS Ground Station :-
-  > ### What is TinyG?
+  > ### What is TinyGS?
+
+
   TinyGS is a project that makes small and inexpensive ground stations for communicating with satellites in space. These stations helps to access satellite data and send commands to satellites. 
--
 
 ---
 ---
