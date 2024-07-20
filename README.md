@@ -181,7 +181,7 @@ correction coding, adaptive data rate adjustment, and support for different spre
    > bonding pattern of cmos vlsi design:
 ![image](https://github.com/user-attachments/assets/3a233677-0ffc-437f-8414-b5c47a0bc40f)
 
-> # Intoduction to Antennas
+> # Intoduction to Antennas :-
 
    Antennas are devices designed to transmit or receive electromagnetic waves. They are essential components in communication systems, allowing the transmission and reception of radio frequency (RF) signals. Antennas are used to convert electrical signals into electromagnetic waves or vice-versa.
 
@@ -223,6 +223,10 @@ correction coding, adaptive data rate adjustment, and support for different spre
    - Helical Antenna:
 
         Horn antennas are helical-shaped directional antennas used for satellite communication, wireless systems, radar, and radio astronomy.
+> # Setting up of TinyGS Ground Station :-
+> ## What is TinyG?
+  TinyGS is a project that makes small and inexpensive ground stations for communicating with satellites in space. These stations helps to access satellite data and send commands to satellites. 
+-
 
 ---
 ---
